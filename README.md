@@ -1,2 +1,2 @@
-# newbie-repository
-Just a noob's repository here
+# Hi
+This is my first file editing. Im newbie at gitgub, but oldschool player in a Quake:)
